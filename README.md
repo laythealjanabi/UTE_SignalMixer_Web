@@ -1,4 +1,5 @@
-# University of Technology and Entrepreneurship - Signal Mixer
+# University of Technology and Entrepreneurship
+# Signal Mixer
 
 **Two or more sine waves can be combined** (Added/Multiplied) together to form a **new signal**. 
 
