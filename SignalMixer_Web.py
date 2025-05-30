@@ -27,7 +27,7 @@ INITIAL_LINE_WIDTH_FACTOR = 2.0  # MODIFIED: Halved for 50% reduction in initial
 MIN_LINE_WIDTH_FACTOR = 1.2      # Min line width factor at high frequency
 CORE_LINE_WIDTH_W1_W2 = 1.5
 CORE_LINE_WIDTH_SUM = 2.0
-MAX_FREQ_SLIDER_VALUE = 45.0
+MAX_FREQ_SLIDER_VALUE = 15.0
 
 # --- Helper Functions ---
 def sine_wave(amplitude, frequency, phase_radians, time_vector):
