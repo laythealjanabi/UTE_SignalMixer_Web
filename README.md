@@ -8,3 +8,10 @@ The complex wave shape depends on whether you are adding or multiplying and also
 
 This small tool allows you to visualise how frequency, amplitude and phase effect the resultant signal when you add or multiply the two **component waves** together.
 
+![image](https://github.com/user-attachments/assets/78b93141-539b-4fc6-9c8b-dea17e14b06c)
+
+See link for demo:  **https://ute-signal-mixer.onrender.com/**
+
+
+
+
